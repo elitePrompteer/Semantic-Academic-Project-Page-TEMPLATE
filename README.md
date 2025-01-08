@@ -1,5 +1,5 @@
 # Academic Project Page Template
-This is a semantic HTML5 fork of the horowitz academic paper project page template.
+This is a semantic HTML5 fork of the Horwitz ['academic paper project page template'](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
 
 Example project pages built using the original template are:
