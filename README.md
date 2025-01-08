@@ -69,8 +69,11 @@ Examples of semantic HTML elements: [3, 7, 10]
 ## What's the Diff?
 Specifically, the following details the main details of my refactoring, and the associated benefits, drawbacks, and trade-offs:
 
-...TBD
-
+...TBD, WIP.
+__ChangeLog__
+#. change description - reasoning.
+1. changed all classnames containing "publication-*" to "pub-*" - keystroke economy!
+2. 
 
 ## Start using the template
 To start using the template click on `Use this Template`.
