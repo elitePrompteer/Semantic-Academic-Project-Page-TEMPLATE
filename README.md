@@ -72,7 +72,7 @@ Specifically, the following details the main details of my refactoring, and the 
 ...TBD, WIP.
 __ChangeLog__
 #. change description - reasoning.
-1. changed all classnames containing "publication-*" to "pub-*" - keystroke economy!
+1. changed all classnames containing "publication-\*" to "pub-\*" - keystroke economy!
 2. 
 
 ## Start using the template
