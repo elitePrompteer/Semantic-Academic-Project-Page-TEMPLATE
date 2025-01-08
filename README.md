@@ -13,7 +13,7 @@ Example project pages built using the original template are:
 
 
 ## Why the fork?
-The original TEMPLATE was discovered on a HuggingFace project page in use for a legitimately impressive academic contribution (I'm sure there are many sich cases), however when tracing the thread back, it was discovered that this template was representative of what I have taken to describing as a "div-soup sandwich", which consequently triggered both my inherent latent pedantry outrage, as well as similarly my latent community altruism - so, I decided to help the scientific community to do the RIGHT thing by offering a more semantic alternative.
+The original TEMPLATE was discovered on a HuggingFace project page in use for a legitimately impressive academic contribution (I'm sure there are many such cases), however when tracing the thread back, it was discovered that this template was representative of what I have taken to describing as a "div-soup sandwich", which consequently triggered both my inherent latent pedantry outrage, as well as similarly my latent community altruism - so, I decided to help the scientific community to do the RIGHT thing by offering a more semantic alternative.
 
 ## Okay... but, why the fork?
 Ah, yes. Perhaps a bit more explanation would be useful:
